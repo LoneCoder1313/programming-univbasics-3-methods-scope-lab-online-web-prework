@@ -1,5 +1,4 @@
 def mario
-  puts  phrase
 
 #=> phrase   
 
