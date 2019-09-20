@@ -5,4 +5,8 @@ phrase = "It's-a me, Mario!"
  end
 end  
 
+def toadstools
+  puts status
+#=>(  
+
 
